@@ -28,8 +28,6 @@
 
 ![Layout do projeto](images/ticTacToe.png)
 
-> *(Opcional: posso criar um GIF animado demonstrando a jogada! 🎥)*
-
 ---
 
 ### 🚀 Como executar o projeto
